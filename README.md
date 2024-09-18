@@ -1,23 +1,11 @@
 # Tugas Pertemuan 2
+Nama : Hamas Izzuddin Fathi
 
-Fork dan clone repository ini, lalu jalankan perintah 
-```
-flutter pub get
-```
-Buatlah tampilan form yang berisi nama, nim, dan tahun lahir pada file `ui/form_data.dart`, lalu buatlah tampilan hasil dari input data tersebut pada file `ui/tampil_data.dart`
+NIM : H1D022097
 
-JELASKAN PROSES PASSING DATA DARI FORM MENUJU TAMPILAN DENGAN FILE `README.md`
-
-Buat tampilan semenarik mungkin untuk dilihat.
-
-
-Nama : ___
-
-NIM : ___
-
-Shift Baru: ___
+Shift Baru: E
 
 ## Screenshot
 Contoh :
-![Lampiran Form](form.png)
-![Lampiran Hasil](hasil.png)
+![image](https://github.com/user-attachments/assets/410d6a44-9674-428f-a446-3929e83b0385) (form.png)
+![image](https://github.com/user-attachments/assets/aaa363da-24eb-429a-a891-ab5b5fc0fede) (hasil.png)
